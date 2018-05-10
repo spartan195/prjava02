@@ -5,26 +5,26 @@ Punt 1:
 
 Executem el netbeans i obrim el projecte descarregat del moodle
 
-![alt text](https://imgur.com/sTrj8jY)
+![imatge del neatbeans](https://i.imgur.com/sTrj8jY.png)
 
 Punt 5: 
 
 Tornem a la branca master (la original) i mostrem el estat del projecte (git status) 
 
-![alt text](https://imgur.com/S4bEmsY)
+![Captures de la terminal](https://i.imgur.com/S4bEmsY.png)
 
 Punt 10:
 
 Tornem a la branca master i comprovem el contingut del arxiu prjava02.java i fusionem les branques branca00 amb la master
 
-![alt text](https://imgur.com/wsvUrHX)
+![Captura de la terminal](https://i.imgur.com/wsvUrHX.png)
 
 
 Punt 14:
 
 Fem un push desde la branc01 i comprovem que els canvis han estat actualitzats a la web de github
 
-![alt text](https://imgur.com/Uu9vUTC)
+![Github](https://i.imgur.com/Uu9vUTC.png)
 
 **6- Des de geany, actualitza el contingut del fitxer Prjava02.java. Pots veure l'última línia afegida?. Per què?**
 >-No, perquè no es trova a la mateixa branca
