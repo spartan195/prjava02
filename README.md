@@ -27,7 +27,7 @@ Practica git 02
 ![Github](https://i.imgur.com/Uu9vUTC.png)
 
 **6- Des de geany, actualitza el contingut del fitxer Prjava02.java. Pots veure l'última línia afegida?. Per què?**
->-No, perquè no es trova a la mateixa branca
+>-No, perquè no es troba a la mateixa branca
 
 
 **7- Torna a la branca branca00. Des de geany, actualitza el contingut del fitxer Prjava02.java. Pots veure l'última línia afegida?. Per què?**
