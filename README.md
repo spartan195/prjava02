@@ -1,4 +1,4 @@
-# prjava02
+# prjava02 Xavi Banús
 Practica git 02
 
 **Punt 1:**
