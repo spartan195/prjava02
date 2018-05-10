@@ -3,26 +3,26 @@ Practica git 02
 
 **Punt 1:**
 
-Executem el netbeans i obrim el projecte descarregat del moodle
+-Executem el netbeans i obrim el projecte descarregat del moodle
 
 ![imatge del neatbeans](https://i.imgur.com/sTrj8jY.png)
 
 **Punt 5:** 
 
-Tornem a la branca master (la original) i mostrem el estat del projecte (git status) 
+-Tornem a la branca master (la original) i mostrem el estat del projecte (git status) 
 
 ![Captures de la terminal](https://i.imgur.com/S4bEmsY.png)
 
 **Punt 10:**
 
-Tornem a la branca master i comprovem el contingut del arxiu prjava02.java i fusionem les branques branca00 amb la master
+-Tornem a la branca master i comprovem el contingut del arxiu prjava02.java i fusionem les branques branca00 amb la master
 
 ![Captura de la terminal](https://i.imgur.com/wsvUrHX.png)
 
 
 **Punt 14:**
 
-Fem un push desde la branc01 i comprovem que els canvis han estat actualitzats a la web de github
+-Fem un push desde la branc01 i comprovem que els canvis han estat actualitzats a la web de github
 
 ![Github](https://i.imgur.com/Uu9vUTC.png)
 
